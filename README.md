@@ -2,6 +2,17 @@
 <h3 align="center">A passionate Data Platform Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikpyari25&label=Profile%20views&color=0e75b6&style=flat" alt="shaikpyari25" /> </p>
+<p align="center">
+  <a href="https://github.com/jaiswaladi246">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@devopsshack">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal7">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Building a production-ready pipeline using Azure DevOps, Docker, and Kubernetes (AKS)](https://github.com/shaikpyari25/shaikpyari25)
 
@@ -32,6 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikpyari25&show_icons=true&locale=en" alt="shaikpyari25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikpyari25&" alt="shaikpyari25" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shaikpyari25&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
