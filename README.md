@@ -39,3 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikpyari25&" alt="shaikpyari25" /></p>
 
+[![shaikpyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikpyari25)](https://github.com/shaikpyari25/github-readme-stats)
+
