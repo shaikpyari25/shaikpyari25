@@ -15,8 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shaikpyari25/shaikpyari25](https://github.com/shaikpyari25/shaikpyari25)
 
 - 💬 Ask me about **Devops tools**
-- 
 - 📫 How to reach me **shaikpyari25@gmail.com**
+
 ---
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
