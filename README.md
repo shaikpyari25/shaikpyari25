@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Pyarijhon</h1>
-<h3 align="center">A passionate Platform Engineer</h3>
+<h3 align="center">A passionate Data Platform Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikpyari25&label=Profile%20views&color=0e75b6&style=flat" alt="shaikpyari25" /> </p>
 
