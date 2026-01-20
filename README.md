@@ -20,12 +20,18 @@
 ---
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pyarishaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/shaikpyari25/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/pyarisameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/shaikpyari25/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="mailto:shaikpyari25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pyari-shaik/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="left">
+  Feel free to reach out for collaboration on <b>Azure, Kubernetes, or Infrastructure Automation</b> projects!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
