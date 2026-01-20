@@ -16,6 +16,7 @@
 - 💬 Ask me about **Devops tools**
 
 - 📫 How to reach me **shaikpyari25@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
