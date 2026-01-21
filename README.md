@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikpyari25&label=Profile%20views&color=0e75b6&style=flat" alt="shaikpyari25" /> </p>
 
-<img alt = "prari stats" src = "https://github-readme-stats.vercel.app/api?username=shaikpyari25"/>
-
 🔭 I’m currently working on [Building a production-ready pipeline using Azure DevOps, Docker, and Kubernetes (AKS)](https://github.com/shaikpyari25/shaikpyari25)
 
 - 🌱 I’m currently learning **Advanced Kubernetes Orchestration, Service Mesh (Istio), and GitOps with ArgoCD.**
