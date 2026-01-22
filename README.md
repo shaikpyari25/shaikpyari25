@@ -1,114 +1,56 @@
-<h1 align="center">Hi 👋, I'm Shaik Pyarijhon</h1>
-<h3 align="center">A passionate Data Platform Engineer</h3>
+# Hi there, I'm Shaik Pyarijhon 👋
+### Senior Data Platform Engineer | Cloud Solutions Architect
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikpyari25&label=Profile%20views&color=0e75b6&style=flat" alt="shaikpyari25" /> </p>
-
-🔭 I’m currently working on [Building a production-ready pipeline using Azure DevOps, Docker, and Kubernetes (AKS)](https://github.com/shaikpyari25/shaikpyari25)
-
-- 🌱 I’m currently learning **Advanced Kubernetes Orchestration, Service Mesh (Istio), and GitOps with ArgoCD.**
-
-- 👯 I’m looking to collaborate on **Open-source Terraform Modules or Kubernetes Operators**
-
-- 🤝 I’m looking for help with **Advanced DevSecOps Security Scanning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shaikpyari25/shaikpyari25](https://github.com/shaikpyari25/shaikpyari25)
-
-- 💬 Ask me about **Devops tools**
-- 📫 How to reach me **shaikpyari25@gmail.com**
+I am a seasoned engineer with **7+ years of experience** specializing in high-scale data infrastructure. I bridge the gap between complex backend architecture and business value, ensuring systems are resilient, secure, and cost-effective.
 
 ---
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-  <a href="mailto:shaikpyari25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/pyari-shaik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  
-</p>
+### 🛠️ The Senior Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-    </a>
-</p>
+### 🐍 Contribution Activity
+![Snake animation](https://github.com/shaikpyari25/shaikpyari25/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🏆 Enterprise Projects (Architecture & Design)
+*Due to strict NDAs, source code is not public. Below are the architectural outcomes of my recent work.*
+
+#### 🏢 Project 1: Multi-Region Data Lakehouse Migration
+* **The Challenge:** A legacy on-premise Hadoop cluster was costing the company $50k/month and suffering from data latency of 24+ hours.
+* **My Role:** Lead Architect.
+* **The Solution:** Designed a hybrid-cloud architecture using **Azure Data Lake Gen2** and **Databricks**. Implemented an event-driven ingestion layer using **Kafka**.
+* **The Outcome:**
+    * Real-time data availability (latency reduced from 24h to <5s).
+    * Operational costs reduced by **40%** via spot-instance auto-scaling.
+
+#### 🛡️ Project 2: Zero-Trust DevSecOps Implementation
+* **The Challenge:** The client (FinTech sector) failed a security audit due to hardcoded secrets and vulnerable container images.
+* **My Role:** Senior DevOps Engineer.
+* **The Solution:** Built a "Golden Image" pipeline using **Docker** and **Trivy** for scanning. Integrated **HashiCorp Vault** for dynamic secret injection into **Kubernetes (AKS)** pods.
+* **The Outcome:**
+    * Achieved **100% compliance** with ISO 27001 standards.
+    * Automated security blocking in CI/CD, preventing 15+ critical vulnerabilities from reaching production.
+
+#### ☁️ Project 3: High-Availability Disaster Recovery System
+* **The Challenge:** Critical payment gateway had no automated failover, posing a risk of million-dollar losses during downtime.
+* **My Role:** Site Reliability Engineer (SRE).
+* **The Solution:** Architected an Active-Passive failover strategy using **Terraform** to replicate infrastructure across Azure East/West regions.
+* **The Outcome:**
+    * Reduced Recovery Time Objective (RTO) from 4 hours to **15 minutes**.
+    * Successfully survived a simulated chaos engineering attack with zero data loss.
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyari-shaik/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikpyari25@gmail.com)
